@@ -1,0 +1,25 @@
+{
+  "name": "dialogflow-hellosla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workaholicsClub/dialogflowHook.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/workaholicsClub/dialogflowHook/issues"
+  },
+  "homepage": "https://github.com/workaholicsClub/dialogflowHook#readme",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "koa": "^2.11.0",
+    "koa-aog": "0.0.2",
+    "koa-body": "^4.1.1"
+  }
+}
